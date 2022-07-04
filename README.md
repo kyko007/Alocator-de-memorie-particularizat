@@ -1,0 +1,1 @@
+# Alocator-de-memorie-particularizat
